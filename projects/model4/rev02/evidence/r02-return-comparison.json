@@ -1,0 +1,24 @@
+{
+  "source": "model4-full.json",
+  "actual": "r02-return.json",
+  "sourceObjects": 212,
+  "actualObjects": 212,
+  "panels": 15,
+  "checkedValues": 6573,
+  "numericToleranceMm": 0.01,
+  "maximumNumericDelta": 25.0,
+  "failures": [
+    {
+      "field": "1.9.gmax.1",
+      "expected": 681.4999999999999,
+      "actual": 706.4999999999999
+    },
+    {
+      "field": "1.9.0.gmax.1",
+      "expected": 681.4999999999999,
+      "actual": 706.4999999999999
+    }
+  ],
+  "status": "FAIL",
+  "scope": "Exported object hierarchy, transforms, bounding boxes, panel contours, materials, texture orientation, edge properties; no manufacturing approval."
+}

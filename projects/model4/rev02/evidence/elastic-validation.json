@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 17370,
+  "cases": 27,
+  "reopenedResizeCases": 3,
+  "failures": [],
+  "toleranceMm": 0.01
+}

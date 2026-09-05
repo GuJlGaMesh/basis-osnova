@@ -1,0 +1,224 @@
+{
+  "schema": 3,
+  "apiVersion": 2341,
+  "filename": "\u041a\u0443\u043f\u0435 \u0421\u0442\u0430\u0440\u043e\u0435 \u0416\u0438\u0432\u043e\u0442\u0438\u043d\u043e\u0435.b3d",
+  "rootCount": 3,
+  "objects": [
+    {
+      "path": "0",
+      "name": "\u0413\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        0,
+        0
+      ],
+      "gmax": [
+        0,
+        0,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "path": "1",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        0,
+        0
+      ],
+      "gmax": [
+        603,
+        1938,
+        8
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 1938,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            1938
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            1938
+          ],
+          "p2": [
+            0,
+            1938
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            1938
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "2",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        706.3195454545454,
+        0,
+        0
+      ],
+      "gmax": [
+        1309.3195454545453,
+        1938,
+        8
+      ],
+      "origin": [
+        706.3195454545454,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 1938,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            1938
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            1938
+          ],
+          "p2": [
+            0,
+            1938
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            1938
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    }
+  ],
+  "errors": []
+}

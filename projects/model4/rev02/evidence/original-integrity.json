@@ -1,0 +1,115 @@
+{
+  "files": [
+    {
+      "name": "Амалия Кухня итог.b3d",
+      "sha256": "9684b530b327e50c14b77ccfc2f5ab5221d1735faff045dfbbe8bea0c018b4d8",
+      "unchanged": true
+    },
+    {
+      "name": "Ванная Ленинградская 30 фраг.fr3d",
+      "sha256": "cf0bc14ff51cad0f2fd30177d7fd6f47b077232c616c57147f765c1bf6448e5a",
+      "unchanged": true
+    },
+    {
+      "name": "Гардеробная Ленинградская 30 фраг.fr3d",
+      "sha256": "b0b29338cae82bb27fb5fba7e87cb7e635885214f275cfd655479200ade73dc0",
+      "unchanged": true
+    },
+    {
+      "name": "Детская Ленинградская 30 фраг.fr3d",
+      "sha256": "a7a7030a8d32db411d55ceb6d849f6bb04121ed7f306d2c067fa31e04af26304",
+      "unchanged": true
+    },
+    {
+      "name": "Корж.b3d",
+      "sha256": "49f76d075ffb12b7d2db1da2d8983bf207f3dcfef643dd83f6e24d99e6aaabc5",
+      "unchanged": true
+    },
+    {
+      "name": "Купе Старое Животиное.b3d",
+      "sha256": "751698ed2b5852a9cfec296ecda788187de4d931927f4377f5a5ea32c7001efb",
+      "unchanged": true
+    },
+    {
+      "name": "Купе.b3d",
+      "sha256": "6e986ad1fcde50fc9383df56fcd2d90ec3d6e912ab72e6d3fc9ffb82b6101b55",
+      "unchanged": true
+    },
+    {
+      "name": "Легенда парк. Андрей. Кухня.b3d",
+      "sha256": "454b57370665d2ffff6a6b4112dcfd6667c7f432386c5fe5c838431ccce2769b",
+      "unchanged": true
+    },
+    {
+      "name": "Легенда Парк. Электрик.Прихожая.b3d",
+      "sha256": "c2113db925ef9bb0307fd333d3f5f050a0db6d2c6cc6086ac166f4343c933ec7",
+      "unchanged": true
+    },
+    {
+      "name": "Модель1.b3d",
+      "sha256": "6751858465cd923663c08a060bb0d1e79aae25a3e25e50d3cb1d753f99e8dac4",
+      "unchanged": true
+    },
+    {
+      "name": "Модель4.b3d",
+      "sha256": "4ac376ff95d46ff777ac09d776da11ee9a94521034e1451801da46a1cc26f45c",
+      "unchanged": true
+    },
+    {
+      "name": "Прихожая Ленингралская 30 фраг.fr3d",
+      "sha256": "63e53d763738cf085024b3e69b1de6db3fecd909d5dd8fb57fa065abc43f8ac8",
+      "unchanged": true
+    },
+    {
+      "name": "Прихожая.b3d",
+      "sha256": "74412629c47f964d4d2fbc9fd759ad5bcb9fc6f5e893eb5601594751932d32a6",
+      "unchanged": true
+    },
+    {
+      "name": "Сергей Легенда Прихожая.b3d",
+      "sha256": "c3a3c6142446df0596cd72edecdd0211e6a2e9a054a816a5c62bf0fff94a3e9c",
+      "unchanged": true
+    },
+    {
+      "name": "Спальная Ленинградская 30 фраг.fr3d",
+      "sha256": "4948f0cc16c7e5ce1c87c9dab99e88e723753de2cdf038b74498dc9fde290355",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотинное Спальня.b3d",
+      "sha256": "c3a8f602e461bbc31177c7fad3082568ec0d4c08f8234394366aa6ed7daf30fa",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотиное детская Д.b3d",
+      "sha256": "7f36fd1b0ac99e747a85e376835ce29702b5bf2fe888994d173da41d335406ca",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотиное детская М.b3d",
+      "sha256": "4eaab3fb796ca43e22c19aeca08681660905ca97394ac6c397a74a35bebf77a4",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотиное Постирочная.b3d",
+      "sha256": "2a9b9a9c7cfbefe0794178629495cde3b197f2acaf0aa225b319d4b3794b3a20",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотиное ТВ зона.b3d",
+      "sha256": "cd23605f32a023f414cd5eb37c7cfa8da0cb33940ec4dec81a2ac1f2fd2eedcc",
+      "unchanged": true
+    },
+    {
+      "name": "Староживотиное. Прихожая.b3d",
+      "sha256": "c3404ee389e35b940ac65d85232f3ea5095fb7b6b1cd37d1d06370d3317dbc23",
+      "unchanged": true
+    },
+    {
+      "name": "ТВ зона Ленинградская 30 фраг.fr3d",
+      "sha256": "75c5eb36d293490768026752cc0c03d39a64fc7e89977c93ec92f0362852a336",
+      "unchanged": true
+    }
+  ],
+  "status": "PASS"
+}

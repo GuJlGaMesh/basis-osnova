@@ -1,0 +1,960 @@
+{
+  "schema": 3,
+  "apiVersion": 2341,
+  "filename": "\u041a\u0443\u043f\u0435.b3d",
+  "rootCount": 11,
+  "objects": [
+    {
+      "path": "0",
+      "name": "\u0413\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        0,
+        0
+      ],
+      "gmax": [
+        603,
+        378,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "path": "1",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        0,
+        0
+      ],
+      "gmax": [
+        603,
+        378,
+        8
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "2",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        -411.59909090909196,
+        0
+      ],
+      "gmax": [
+        603,
+        -33.599090909091956,
+        8
+      ],
+      "origin": [
+        0,
+        -411.59909090909196,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "3",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        -825.9990909090923,
+        0
+      ],
+      "gmax": [
+        603,
+        -447.9990909090923,
+        8
+      ],
+      "origin": [
+        0,
+        -825.9990909090923,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "4",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        -1223.5990909090922,
+        0
+      ],
+      "gmax": [
+        603,
+        -845.5990909090922,
+        8
+      ],
+      "origin": [
+        0,
+        -1223.5990909090922,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "5",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        0,
+        -1646.3990909090926,
+        0
+      ],
+      "gmax": [
+        603,
+        -1268.3990909090926,
+        8
+      ],
+      "origin": [
+        0,
+        -1646.3990909090926,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "6",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        654.7981818181834,
+        0,
+        0
+      ],
+      "gmax": [
+        1257.7981818181834,
+        378,
+        8
+      ],
+      "origin": [
+        654.7981818181834,
+        0,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "7",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        654.7981818181834,
+        -417.1990909090928,
+        0
+      ],
+      "gmax": [
+        1257.7981818181834,
+        -39.199090909092774,
+        8
+      ],
+      "origin": [
+        654.7981818181834,
+        -417.1990909090928,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "8",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        654.7981818181827,
+        -823.1990909090928,
+        0
+      ],
+      "gmax": [
+        1257.7981818181827,
+        -445.1990909090928,
+        8
+      ],
+      "origin": [
+        654.7981818181827,
+        -823.1990909090928,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "9",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        654.7981818181834,
+        -1224.999090909093,
+        0
+      ],
+      "gmax": [
+        1257.7981818181834,
+        -846.999090909093,
+        8
+      ],
+      "origin": [
+        654.7981818181834,
+        -1224.999090909093,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    },
+    {
+      "path": "10",
+      "name": "\u0424\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f",
+      "article": "",
+      "list": false,
+      "gmin": [
+        654.7981818181834,
+        -1646.3990909090924,
+        0
+      ],
+      "gmax": [
+        1257.7981818181834,
+        -1268.3990909090924,
+        8
+      ],
+      "origin": [
+        654.7981818181834,
+        -1646.3990909090924,
+        0
+      ],
+      "axisZ": [
+        0,
+        0,
+        1
+      ],
+      "axisY": [
+        0,
+        1,
+        0
+      ],
+      "thickness": 8,
+      "panel": true,
+      "material": "\u041b\u0414\u0421\u041f Egger \u041a\u0430\u0448\u0435\u043c\u0438\u0440 \u0441\u0435\u0440\u044b\u0439, EG  (8\u043c\u043c)\rU702 ST9 8\u043c\u043c",
+      "contourWidth": 603,
+      "contourHeight": 378,
+      "texture": 2,
+      "contourCount": 4,
+      "buttCount": 0,
+      "cutCount": 0,
+      "plasticsCount": 0,
+      "contour": [
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            0
+          ],
+          "p2": [
+            603,
+            0
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            0
+          ],
+          "p2": [
+            603,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            603,
+            378
+          ],
+          "p2": [
+            0,
+            378
+          ]
+        },
+        {
+          "type": 1,
+          "kind": "line",
+          "p1": [
+            0,
+            378
+          ],
+          "p2": [
+            0,
+            0
+          ]
+        }
+      ],
+      "butts": []
+    }
+  ],
+  "errors": []
+}

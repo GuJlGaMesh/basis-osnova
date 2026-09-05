@@ -1,0 +1,13 @@
+{
+  "source": "model4-full.json",
+  "actual": "r02-baseline.json",
+  "sourceObjects": 212,
+  "actualObjects": 212,
+  "panels": 15,
+  "checkedValues": 6573,
+  "numericToleranceMm": 0.01,
+  "maximumNumericDelta": 1.1368683772161603e-13,
+  "failures": [],
+  "status": "PASS",
+  "scope": "Exported object hierarchy, transforms, bounding boxes, panel contours, materials, texture orientation, edge properties; no manufacturing approval."
+}
