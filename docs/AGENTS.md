@@ -11,6 +11,7 @@
 | Скрипт или смена API | [API](change-scenarios/api-change.md), [работа в БАЗИС](development/bazis.md) |
 | Ревью | [Правила ревью](development/review.md), [контроль качества](development/quality-gates.md) |
 | Проверка или выпуск модели | [Проверки](development/testing.md), [выпуск](development/releases.md) |
+| Изучение мебельного примера | [Извлечение знаний](development/reference-models.md), [конструирование](development/modeling.md) |
 | Планирование или обновление документации | [Архитектура](architecture/overview.md), [правила](development/rules.md) |
 
 `architecture/` описывает устройство процесса; `development/` — правила и шаблоны; `change-scenarios/` — порядок изменений; `adr/` — обоснования решений.
