@@ -246,10 +246,10 @@
       "lastUpdateAt": "2026-09-05T13:36:42.483Z",
       "managedFiles": {
         "README.md": {
-          "hash": "sha256-1f0a80d14ee8d6be8f56a4e0e766030783deddf4205ccf560ded8f0f8b832a39"
+          "hash": "sha256-07042fb69b37c97bbca219bc3d7d505cfe1b45c7d865ea2b67aadd790f4f4da4"
         },
         "AGENTS.md": {
-          "hash": "sha256-481c946ee4e96d6a5a94edf226363989a46d5bcb4278d4ea72b833e88c917dfd",
+          "hash": "sha256-4ccfd2d4a6a48a165d86b6828a73ff12eb617688efab088cd7ba24e22490d24d",
           "outsideMarkersOnly": true
         },
         "docs/adr/0001-evidence-based-modeling.md": {
@@ -289,7 +289,7 @@
           "hash": "sha256-d5204aabd378f75725dca01f0dd4aa9675735c970dd3fa524bf18da5d1ac3d2b"
         },
         "docs/development/bazis.md": {
-          "hash": "sha256-4a8818e509404be34febb4a33d236d004cc2ad8526d46511f6bd3951098c161a"
+          "hash": "sha256-b26afc4d81d88a016a5f60bdd5a1ba3a03649eb69a6af7458ca1ba72a3d0bb6a"
         },
         "docs/development/intake.md": {
           "hash": "sha256-9c5a4c18ecf9a58c17797aefc409aa40981577cfa27ebba65c5f886276f8cdfa"
