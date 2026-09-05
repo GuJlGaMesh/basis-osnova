@@ -239,5 +239,86 @@
       "source": "tl-ai-kit",
       "rejected": true
     }
-  ]
+  ],
+  "skillState": {
+    "tl-docs": {
+      "lastUpdateCommit": "fac7b9829fcfaaf3184b4e18a170d1a33e04986b",
+      "lastUpdateAt": "2026-09-05T13:36:42.483Z",
+      "managedFiles": {
+        "README.md": {
+          "hash": "sha256-1f0a80d14ee8d6be8f56a4e0e766030783deddf4205ccf560ded8f0f8b832a39"
+        },
+        "AGENTS.md": {
+          "hash": "sha256-481c946ee4e96d6a5a94edf226363989a46d5bcb4278d4ea72b833e88c917dfd",
+          "outsideMarkersOnly": true
+        },
+        "docs/adr/0001-evidence-based-modeling.md": {
+          "hash": "sha256-b1af32841363960eb3f2ccfc9cdb1f46a104be13dc8d39b98129ef6bf7d4c0e8"
+        },
+        "docs/adr/README.md": {
+          "hash": "sha256-82143270307a46865ff3b3c0d45a0f98762668d1218fde0d815084b9b6bfb475"
+        },
+        "docs/AGENTS.md": {
+          "hash": "sha256-2b48a77c5396c561a9e10edd201d7f3a0d174a7c0a0344906b7e3c14b7a28e09"
+        },
+        "docs/architecture/constraints.md": {
+          "hash": "sha256-b13056c1816e4b83c6c420cc8750758e243e909026a818f21fac434a46875417"
+        },
+        "docs/architecture/dependencies.md": {
+          "hash": "sha256-08c3ae33ea855a2198d6c4543f79e7d976499363e05b35609e2603c4b9e001a4"
+        },
+        "docs/architecture/layers.md": {
+          "hash": "sha256-77c50f8f390d6c87b9712d4477e65fbcb31d944c17b1449b3417d87426a0a527"
+        },
+        "docs/architecture/overview.md": {
+          "hash": "sha256-1adfa5b9b3c9431d5d793c81a2be17f298b651d8df18fd888e7e2daff9ebdd33"
+        },
+        "docs/change-scenarios/api-change.md": {
+          "hash": "sha256-bef3ec88c5ec8d561381adff94318ff0e0e275659d62b0ac5bd368e69e47f17b"
+        },
+        "docs/change-scenarios/bugfix.md": {
+          "hash": "sha256-f24a6f02bcfdf4326dd5ec064edebbd42c8c37fa728c863b1084cf58e3318855"
+        },
+        "docs/change-scenarios/config-change.md": {
+          "hash": "sha256-ec94000cd57ad8a0a37f2d6012bbb5171613651822bbf7c7693e531eac979051"
+        },
+        "docs/change-scenarios/new-feature.md": {
+          "hash": "sha256-f33061766fcda91b7754f6ab968df4f56010204c6ad4383c7530c224e082a126"
+        },
+        "docs/change-scenarios/refactor.md": {
+          "hash": "sha256-d5204aabd378f75725dca01f0dd4aa9675735c970dd3fa524bf18da5d1ac3d2b"
+        },
+        "docs/development/bazis.md": {
+          "hash": "sha256-4a8818e509404be34febb4a33d236d004cc2ad8526d46511f6bd3951098c161a"
+        },
+        "docs/development/intake.md": {
+          "hash": "sha256-9c5a4c18ecf9a58c17797aefc409aa40981577cfa27ebba65c5f886276f8cdfa"
+        },
+        "docs/development/modeling.md": {
+          "hash": "sha256-014d13e1d4fcaefdefc6493f4ebba44564d721cdc0353180340021cce7fc1ea9"
+        },
+        "docs/development/quality-gates.md": {
+          "hash": "sha256-8753a641b893471aa938688a2c6fda86367c3aa3fd0add258b2eff2082b979fe"
+        },
+        "docs/development/releases.md": {
+          "hash": "sha256-28f6a89c8d0e7877eaabdeba8353d7f72340bf86be286bd041256c644fa57b6e"
+        },
+        "docs/development/review.md": {
+          "hash": "sha256-7b3cedc8771fff6401b4511441c1cccd809db91a8ca4925bc91e326a01faed7c"
+        },
+        "docs/development/rules.md": {
+          "hash": "sha256-b7893dd1eac65de11c25cf77d34d87837a084d7d7553431655860d5e202377c1"
+        },
+        "docs/development/testing.md": {
+          "hash": "sha256-919ccfe1656b000afccf31a0309e3e16ebbfefb639aca46c0243c27e4e0e5a9b"
+        },
+        "docs/glossary.md": {
+          "hash": "sha256-4e5e08e2f0622958f1d8e67e692aa59e1e0648e6fd6f4a929b97968ac0a32372"
+        },
+        "docs/README.md": {
+          "hash": "sha256-54320dfe0a41aa2203e186574e4ddb982bcb25565a8bef19d47085acbc514aac"
+        }
+      }
+    }
+  }
 }
