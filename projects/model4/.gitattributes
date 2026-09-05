@@ -1,3 +1,4 @@
 # Preserve release script bytes: checksums identify the tested BAZIS input.
 *.js -text whitespace=cr-at-eol
 *.b3d binary
+*.fr3d binary

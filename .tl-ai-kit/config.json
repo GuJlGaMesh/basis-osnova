@@ -243,13 +243,13 @@
   "skillState": {
     "tl-docs": {
       "lastUpdateCommit": "54d719a2aadec7de39f9baa47be54de8148001b9",
-      "lastUpdateAt": "2026-09-05T21:46:28+03:00",
+      "lastUpdateAt": "2026-09-05T22:17:13+03:00",
       "managedFiles": {
         "README.md": {
           "hash": "sha256-2e360080033e35b81d5e58c5a0af4b0790b07f27fb1bf38ec610a4031585d959"
         },
         "AGENTS.md": {
-          "hash": "sha256-0fa77885668e3e9d426a7a582e3d690d801be8c457adf08a16d1cf49cd785019",
+          "hash": "sha256-8e5ed4c87a38552f0f13a2975e250fd11f37563b74a3816b8b5d0f1a51de4cb7",
           "outsideMarkersOnly": true
         },
         "docs/adr/0001-evidence-based-modeling.md": {
@@ -286,10 +286,10 @@
           "hash": "sha256-fafb7ac873457d81c11f4d79fb9cbb3c593e825094d4a5b79239e79902c2874e"
         },
         "docs/change-scenarios/refactor.md": {
-          "hash": "sha256-cde7d2aca225fde40a43ff308345d07e59a5b62ca73b961e2ff73eb3812c0ee8"
+          "hash": "sha256-984b909818c573d61faadd0eb070193ebb47b630c970d1e97d14a733a06b03b6"
         },
         "docs/development/bazis.md": {
-          "hash": "sha256-64da5d6b73a4bfc93301ba54294c3ec6942ac35a017b26d5e691c224f747e1b4"
+          "hash": "sha256-a715595dc3f96b67c387de7d4efddad99fa0a036709c4978b226ceae70bab4e2"
         },
         "docs/development/intake.md": {
           "hash": "sha256-d5cfc798d381f80e8075bce8b952de22c86c0aab590e6015cdda8731eba12ced"
@@ -301,22 +301,22 @@
           "hash": "sha256-02e696995ae53537621e34d28651a54b82a5d89a86c70445fc4bd8bd1b4aadb3"
         },
         "docs/development/quality-gates.md": {
-          "hash": "sha256-24e18556e1fdb45e01dc34655a63936bd246908accf9c31e27d92877cb7a32a0"
+          "hash": "sha256-e5a70db42799645f44af7a6eaeba22ba60abdd3b9e14951f3e42cf53bc65470f"
         },
         "docs/development/reference-models.md": {
           "hash": "sha256-46503bd202cdfb3918e9e4ca06f35f2db93b3f4afd4fa9be89b8d4ece41dbc42"
         },
         "docs/development/releases.md": {
-          "hash": "sha256-1b753352e6a179fde71783f776109a5657c3a65e2b9c7becedc9d0b44fe1661c"
+          "hash": "sha256-6eab9f28929c90dcf697e33d060b268404a506b83e0bb709ff555bc0dcd7a08e"
         },
         "docs/development/review.md": {
-          "hash": "sha256-533d3d77ad84f0c96a1209785bd63c6c6b6e8526db36d7515b4dac9a9649af76"
+          "hash": "sha256-cbc01c2c56342cd91fc3d467674afb31443427607a175694ee630e326fb04349"
         },
         "docs/development/rules.md": {
-          "hash": "sha256-5632d3d41177c6d1239b21f126774a5f76cba5972a2e90b0e39b7f899b9cbbd2"
+          "hash": "sha256-03eb8da2bb04f49c2f5839c30a12528da397b6812c7838938863ca1847e54b90"
         },
         "docs/development/testing.md": {
-          "hash": "sha256-ff437fae30f76d82a7d40724d1799c24449493396cd5b9b207a0d7eaace1b8f2"
+          "hash": "sha256-62ad325e73f1c675ba5e90b31705e75d6c3e630ce0a1d6d2312ea2207110307f"
         },
         "docs/glossary.md": {
           "hash": "sha256-4e5e08e2f0622958f1d8e67e692aa59e1e0648e6fd6f4a929b97968ac0a32372"
@@ -325,7 +325,7 @@
           "hash": "sha256-bb7886d3c62faafce3503e48e3bb660b666f099d112a1f392e2d7241cc687e43"
         },
         "docs/development/model-to-script.md": {
-          "hash": "sha256-73673f2428ca794b36c6fb5699b785c06f0c828e6f1e82bd233fefe43e2f0c72"
+          "hash": "sha256-a7f0c80e24d85f50b9ae8fbae293be44c7f8d3dba48f0fca5e0d7cb03e54dcb0"
         }
       }
     }

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "cases": 27,
+  "checks": 372953,
+  "objectsPerModule": 211,
+  "panelsPerModule": 15,
+  "existingObjectsPreserved": true,
+  "saveReopenEqual": true,
+  "sideGapMm": 0.0,
+  "frontPlanes": [
+    17.999999999999943,
+    17.99999999999996
+  ],
+  "apiPanelSelections": 30
+}
