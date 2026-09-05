@@ -12,6 +12,8 @@
 | Ревью | [Правила ревью](development/review.md), [контроль качества](development/quality-gates.md) |
 | Проверка или выпуск модели | [Проверки](development/testing.md), [выпуск](development/releases.md) |
 | Изучение мебельного примера | [Извлечение знаний](development/reference-models.md), [конструирование](development/modeling.md) |
+| Корпус под встроенный холодильник | [Теория и источники](development/integrated-refrigerator.md), [анкета](development/intake.md) |
+| Выдача скрипта для ручного запуска | [Комплект передачи](development/releases.md), [S0–S3](development/quality-gates.md) |
 | Планирование или обновление документации | [Архитектура](architecture/overview.md), [правила](development/rules.md) |
 
 `architecture/` описывает устройство процесса; `development/` — правила и шаблоны; `change-scenarios/` — порядок изменений; `adr/` — обоснования решений.

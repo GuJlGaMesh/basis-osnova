@@ -242,84 +242,87 @@
   ],
   "skillState": {
     "tl-docs": {
-      "lastUpdateCommit": "fac7b9829fcfaaf3184b4e18a170d1a33e04986b",
-      "lastUpdateAt": "2026-09-05T13:36:42.483Z",
+      "lastUpdateCommit": "54d719a2aadec7de39f9baa47be54de8148001b9",
+      "lastUpdateAt": "2026-09-05T15:37:14.189Z",
       "managedFiles": {
         "README.md": {
-          "hash": "sha256-07042fb69b37c97bbca219bc3d7d505cfe1b45c7d865ea2b67aadd790f4f4da4"
+          "hash": "sha256-22ee6faff1392657f27a85851611e6d2b387757120f4123c05a7f38a4d336be6"
         },
         "AGENTS.md": {
-          "hash": "sha256-4ccfd2d4a6a48a165d86b6828a73ff12eb617688efab088cd7ba24e22490d24d",
+          "hash": "sha256-0334e558f1c57a4867a98dc1d2854794229e71811d2fe39ae381792b8f08f39f",
           "outsideMarkersOnly": true
         },
         "docs/adr/0001-evidence-based-modeling.md": {
-          "hash": "sha256-b1af32841363960eb3f2ccfc9cdb1f46a104be13dc8d39b98129ef6bf7d4c0e8"
+          "hash": "sha256-17626389f706c857d3d9fe48e0f97511546666c3f50b2e38885c743bbcf5721f"
         },
         "docs/adr/README.md": {
           "hash": "sha256-82143270307a46865ff3b3c0d45a0f98762668d1218fde0d815084b9b6bfb475"
         },
         "docs/AGENTS.md": {
-          "hash": "sha256-21d2a274e56b521f2ed3d48fe9d9c2f3d09dc8c1f63c52ee62e3ee775ba82680"
+          "hash": "sha256-479687aea4856eb245b7160a14daf5a852eaaaf969d1f4f8192503e4428fa649"
         },
         "docs/architecture/constraints.md": {
-          "hash": "sha256-b13056c1816e4b83c6c420cc8750758e243e909026a818f21fac434a46875417"
+          "hash": "sha256-c01a1d6d27e8a346c8dcd5f1424be02d6533d90e8a8e5958bba9e217ad7cba45"
         },
         "docs/architecture/dependencies.md": {
           "hash": "sha256-08c3ae33ea855a2198d6c4543f79e7d976499363e05b35609e2603c4b9e001a4"
         },
         "docs/architecture/layers.md": {
-          "hash": "sha256-77c50f8f390d6c87b9712d4477e65fbcb31d944c17b1449b3417d87426a0a527"
+          "hash": "sha256-94db501d8b9067ac2647378a88ee2131b571428206a9ee564ee6b5d14648cbe7"
         },
         "docs/architecture/overview.md": {
-          "hash": "sha256-1adfa5b9b3c9431d5d793c81a2be17f298b651d8df18fd888e7e2daff9ebdd33"
+          "hash": "sha256-f68192d5f2f1ee03c952fafee034d496f81b98344bd921e94624aea1bbbb4613"
         },
         "docs/change-scenarios/api-change.md": {
-          "hash": "sha256-bef3ec88c5ec8d561381adff94318ff0e0e275659d62b0ac5bd368e69e47f17b"
+          "hash": "sha256-f1d8ffc31b66ffb7bed6f1acef1d1d33684afd39b9037767d3098b8b8a23851f"
         },
         "docs/change-scenarios/bugfix.md": {
-          "hash": "sha256-f24a6f02bcfdf4326dd5ec064edebbd42c8c37fa728c863b1084cf58e3318855"
+          "hash": "sha256-4807f4f3433ae81e09c4899843cdf720b540880aa53d41ad1f474619979b935e"
         },
         "docs/change-scenarios/config-change.md": {
-          "hash": "sha256-ec94000cd57ad8a0a37f2d6012bbb5171613651822bbf7c7693e531eac979051"
+          "hash": "sha256-0c9793e44cd641c54e1493b154dfd1b8076523d9e41590955f3df35fee1e22d1"
         },
         "docs/change-scenarios/new-feature.md": {
-          "hash": "sha256-f33061766fcda91b7754f6ab968df4f56010204c6ad4383c7530c224e082a126"
+          "hash": "sha256-fafb7ac873457d81c11f4d79fb9cbb3c593e825094d4a5b79239e79902c2874e"
         },
         "docs/change-scenarios/refactor.md": {
-          "hash": "sha256-d5204aabd378f75725dca01f0dd4aa9675735c970dd3fa524bf18da5d1ac3d2b"
+          "hash": "sha256-5b74a1ec34beea1528980d50d69847fa0518733c09a7b3c8cc672d39387a5573"
         },
         "docs/development/bazis.md": {
-          "hash": "sha256-b26afc4d81d88a016a5f60bdd5a1ba3a03649eb69a6af7458ca1ba72a3d0bb6a"
+          "hash": "sha256-6bd7303d8dcce4a1cafbbf206edca8a5f02ad6206e94513807f8e756b24459c1"
         },
         "docs/development/intake.md": {
-          "hash": "sha256-c2d0459f5dba2d04cec9fc09dfb46e815ed0759316433219d67544b7852a346e"
+          "hash": "sha256-d5cfc798d381f80e8075bce8b952de22c86c0aab590e6015cdda8731eba12ced"
+        },
+        "docs/development/integrated-refrigerator.md": {
+          "hash": "sha256-2ef7910f1342000b17e65a90a86be140baa6ab4defe96cf31f05f23a0acbdfb8"
         },
         "docs/development/modeling.md": {
-          "hash": "sha256-840c12a6009c18566ea7c48ffae7a7a64bcfadf8e50de79edcf42552a2bdac60"
+          "hash": "sha256-27cdff284c64495f839b48a4c505c8eb1f031d8b234fc8ed662ec298ad0bdc59"
         },
         "docs/development/quality-gates.md": {
-          "hash": "sha256-0be5be9b1797380f7747f42041ea336352b23bdec1defae48706504848a8fe5c"
+          "hash": "sha256-fbef8db7ea166497004f86173a02780654d52a55eef365711c0f6d38dd3b13d4"
+        },
+        "docs/development/reference-models.md": {
+          "hash": "sha256-464fd2a88741ff90fb1d757847bdb6175079f1da2249238328b47586a0287822"
         },
         "docs/development/releases.md": {
-          "hash": "sha256-28f6a89c8d0e7877eaabdeba8353d7f72340bf86be286bd041256c644fa57b6e"
+          "hash": "sha256-9b39cb6fb7e75cba4687da11dc9359c6921434aeeb3b52534477814eef5267b3"
         },
         "docs/development/review.md": {
-          "hash": "sha256-7b3cedc8771fff6401b4511441c1cccd809db91a8ca4925bc91e326a01faed7c"
+          "hash": "sha256-e5b18c61ac608ae7defb37bd099f6d295c0cce4e3acb7a58014de465803e42cf"
         },
         "docs/development/rules.md": {
-          "hash": "sha256-9f2f74e1e7f574121c3072892eec4db3a65b07b7888705a9e55dc8107791c87a"
+          "hash": "sha256-99b7588287deb14cd3443e352b01905862a1056417428cc932bbc425f2329776"
         },
         "docs/development/testing.md": {
-          "hash": "sha256-8f41238f9abe9755596b4c03e2db993da84d11bda7f1184bc8b9e4fcb2e566f7"
+          "hash": "sha256-e7ff2c0f2639ac8eba61564faa6b75935552eae272e558569135e670b6706c8c"
         },
         "docs/glossary.md": {
           "hash": "sha256-4e5e08e2f0622958f1d8e67e692aa59e1e0648e6fd6f4a929b97968ac0a32372"
         },
         "docs/README.md": {
-          "hash": "sha256-09f96f371e33a4b91790eda11dfbd37aac4bb24f7bf2a3c094203f85ca3c61af"
-        },
-        "docs/development/reference-models.md": {
-          "hash": "sha256-464fd2a88741ff90fb1d757847bdb6175079f1da2249238328b47586a0287822"
+          "hash": "sha256-f6dd2e888e97b4f2643ecc06160cb2d6217d31adb62733a878e22b4c84848698"
         }
       }
     }
