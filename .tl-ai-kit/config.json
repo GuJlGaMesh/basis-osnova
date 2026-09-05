@@ -1,0 +1,243 @@
+{
+  "version": "0.1.8",
+  "installedAt": "2026-09-05T09:36:34.196Z",
+  "updatedAt": "2026-09-05T09:36:34.196Z",
+  "agents": [
+    "codex"
+  ],
+  "components": [
+    {
+      "type": "skill",
+      "name": "tl-code-review",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-commit",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-compound",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-doc-coauthoring",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-docs",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-frontend-design",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-implement",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-kit-onboard",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-local-agents-md",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-mcp-builder",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-plan",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-playwright",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-reference",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-repo-agent-readiness",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-research",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-skill-creator",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-spec",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-sync-agents",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-tech-design",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-text-plain",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-text-review",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-visualize",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-workflow",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "mcp",
+      "name": "tl_browser_playwright",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "mcp",
+      "name": "tl_context7",
+      "source": "tl-ai-kit"
+    },
+    {
+      "type": "skill",
+      "name": "tl-changelog-generator",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-confluence-reader",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-confluence-writer",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-feedback",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-fix-merge-request",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-jira-import",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-jira-reader",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-jira-writer",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-merge-request",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-security-review",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-sync-agent-file-access",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "skill",
+      "name": "tl-worktree",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "mcp",
+      "name": "tl_figma",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "mcp",
+      "name": "tl_reactor",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "mcp",
+      "name": "tl_tlui",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "mcp",
+      "name": "tl_bitbucket",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "mcp",
+      "name": "tl_gitlab",
+      "source": "tl-ai-kit",
+      "rejected": true
+    },
+    {
+      "type": "section",
+      "name": "dotnet-quality-gate",
+      "source": "tl-ai-kit",
+      "rejected": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[shell_environment_policy]
+ignore_default_excludes = true
+
+[mcp_servers.tl_browser_playwright]
+command = "cmd"
+args = [ "/c", "npx", "@playwright/mcp@latest" ]
+
+[mcp_servers.tl_context7]
+command = "cmd"
+args = [ "/c", "npx", "-y", "@upstash/context7-mcp" ]
+env_vars = [ "CONTEXT7_API_KEY" ]
