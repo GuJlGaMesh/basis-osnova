@@ -1,0 +1,81 @@
+{
+  "source_page": "https://bazis-center.ru/file/furniture/tbm",
+  "archive_url": "https://cdn.bazissoft.ru/web/files/Raznoe/tbm/TBM_11_25.zip",
+  "archive_encoding": "CP866",
+  "article": "FRM0444.S30",
+  "verified_article_byte_offset_fr3d": 1966,
+  "material_description": "ЛДСП16мм;2направляющие+2крепления",
+  "fr3d_sha256": "3ad5b41184c306730847efca522676dcc0018290c7487cabd61be652b23ef677",
+  "f3d_sha256": "9aba4ac24ac41fc76287825c6cfce2a714d0b98a67d5824b1e86e58a29b93bbe",
+  "datum_mode": {
+    "fr3d": {
+      "integer": 6,
+      "enum": "DatumMode.Box"
+    },
+    "f3d": {
+      "integer": 1,
+      "enum": "DatumMode.Face"
+    }
+  },
+  "native_frame": {
+    "width": 300,
+    "height": 0,
+    "depth": 0,
+    "origin": [
+      0,
+      0,
+      0
+    ],
+    "local_Y": "up",
+    "local_Z": "front",
+    "runner_extends": "negative_Z"
+  },
+  "native_pair_geometry_bounds_rounded_mm": {
+    "min": [
+      0,
+      0,
+      -300
+    ],
+    "max": [
+      300,
+      50,
+      0
+    ]
+  },
+  "native_front_inset_mm": 0,
+  "width_adjustment": "native elastic section planes present; geometry translation when width is changed requires BAZIS runtime verification",
+  "native_drilling": {
+    "side_each": {
+      "diameter": 3,
+      "depth": 3,
+      "x": [
+        0,
+        300
+      ],
+      "y": 39,
+      "z": [
+        -37,
+        -69,
+        -165,
+        -197
+      ]
+    },
+    "rear_hooks": {
+      "diameter": 6,
+      "depth": 10,
+      "x": [
+        28,
+        272
+      ],
+      "y": 40,
+      "z": -290
+    }
+  },
+  "app_version_saved": "2024.11.6.0",
+  "model_file_version": [
+    23,
+    15
+  ],
+  "bazis22_compatibility": "not verified; preload before model deletion and test DatumMode/MountBox result",
+  "source_warning": "Embedded Estimate XML retains stale ProductArticle FRM0444.S25 / L=250. Main Article and object name FRM0444.S30; actual stored rail length300. Do not use stale estimate fields."
+}

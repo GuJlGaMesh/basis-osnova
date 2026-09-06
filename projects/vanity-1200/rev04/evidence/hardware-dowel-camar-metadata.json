@@ -1,0 +1,134 @@
+{
+  "method": "Read-only experimental BZ85 tree decoder; values taken from file metadata, not from BAZIS runtime.",
+  "dowel": {
+    "source": "projects/vanity-1200/rev03/evidence/dowel-8x30.f3d",
+    "sha256": "9da26a7cc12a6934b970d8f9027ab6caac0fd2a1877b8751f94f4a71eb6180c8",
+    "datumMode": {
+      "value": 2,
+      "enum": "DatumMode.FaceFace"
+    },
+    "name": "Шкант 8 х 30 мм",
+    "geometry": "Two drilling primitives only; no wood dowel mesh present.",
+    "holes": [
+      {
+        "origin": [
+          0,
+          -8,
+          0
+        ],
+        "direction": [
+          -1,
+          0,
+          0
+        ],
+        "diameter": 8,
+        "depth": 11
+      },
+      {
+        "origin": [
+          0,
+          -8,
+          0
+        ],
+        "direction": [
+          1,
+          0,
+          0
+        ],
+        "diameter": 8,
+        "depth": 22
+      }
+    ],
+    "bounds_mm": {
+      "min": [
+        -11,
+        -12,
+        -4
+      ],
+      "max": [
+        22,
+        -4,
+        4
+      ]
+    },
+    "mount_usage": "Perpendicular panel planes; file does not establish a connection between parallel facade and drawer-front planes.",
+    "appVersion": "2022.12.21.36090",
+    "fileVersion": [
+      11,
+      14
+    ]
+  },
+  "camar": {
+    "source": "projects/vanity-1200/rev03/evidence/camar-807-pair.fr3d",
+    "sha256": "94a02a2b1820cfacdace739a118ffcf1670c0a21d5172e9490f84ebc61eccde2",
+    "datumMode": {
+      "value": 6,
+      "enum": "DatumMode.Box"
+    },
+    "frame": {
+      "position": [
+        0,
+        -100,
+        0
+      ],
+      "size": [
+        150,
+        100,
+        0
+      ]
+    },
+    "components": [
+      "K075.001R.007",
+      "K075.001L.007",
+      "K075.CH023.007 (2 pcs)",
+      "K075.C01R.008",
+      "K075.C01L.008"
+    ],
+    "mounting_planes_x": [
+      0,
+      150
+    ],
+    "axes": {
+      "x": "right",
+      "y": "up",
+      "z": "away from wall toward cabinet front"
+    },
+    "holes_each_hanger": {
+      "diameter": 10,
+      "depth": 13,
+      "local_y": [
+        -36,
+        -100
+      ],
+      "local_z": [
+        40,
+        72
+      ],
+      "drill_into_side_panel": true
+    },
+    "component_bounds_approx": {
+      "min": [
+        -13.003,
+        -109.5,
+        0
+      ],
+      "max": [
+        163.003,
+        -26.5,
+        83
+      ]
+    },
+    "elastic_width": true,
+    "processing_objects": "Two Type4006 objects named вырез; Z base about -976.5686. Do not treat machining volumes as physical component bounds.",
+    "appVersion": "2024.11.14.0",
+    "fileVersion": [
+      23,
+      15
+    ],
+    "bazis22_compatibility": "NOT_RUN"
+  },
+  "limits": [
+    "Library load, actual mounting, cutting operations and saved-model geometry are NOT_RUN in BAZIS.",
+    "Numerical load rating from object labels is not structural validation."
+  ]
+}
