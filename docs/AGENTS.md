@@ -5,6 +5,7 @@
 | Задача | Читать |
 |---|---|
 | Новое изделие или новая возможность генератора | [Сценарий](change-scenarios/new-feature.md), [паспорт](development/intake.md) |
+| Ряд модулей, угловая кухня, зависимости соседних секций | [Компоновка](development/modular-layouts.md), [параметры скрипта](development/bazis.md#параметры-и-повторное-редактирование) |
 | Изменение размеров, материалов или фурнитуры | [Сценарий настроек](change-scenarios/config-change.md), [эластичность](development/modeling.md#эластичное-изменение-размера), [регрессия](development/testing.md#регрессия-эластичности) |
 | Ошибка модели | [Исправление](change-scenarios/bugfix.md) |
 | Рефакторинг генератора | [Рефакторинг](change-scenarios/refactor.md) |

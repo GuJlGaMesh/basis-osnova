@@ -259,7 +259,7 @@
           "hash": "sha256-82143270307a46865ff3b3c0d45a0f98762668d1218fde0d815084b9b6bfb475"
         },
         "docs/AGENTS.md": {
-          "hash": "sha256-a0933812a38cdb4b775b592c0fe703f666b93125730a893cb849920c45fd4803"
+          "hash": "sha256-a9f1e1e33099388595aa9b01e87b2be977a2a315f430aa82c7760e15dc054446"
         },
         "docs/architecture/constraints.md": {
           "hash": "sha256-c01a1d6d27e8a346c8dcd5f1424be02d6533d90e8a8e5958bba9e217ad7cba45"
@@ -289,7 +289,7 @@
           "hash": "sha256-984b909818c573d61faadd0eb070193ebb47b630c970d1e97d14a733a06b03b6"
         },
         "docs/development/bazis.md": {
-          "hash": "sha256-de24f477e999467ad888869b5c206b20a297c05757a1b5ac81fd89e51a255b93"
+          "hash": "sha256-9c9b6d6b4631b5c97ecc019bd56314458d9a09a84ca9564ff415759b8d877edd"
         },
         "docs/development/intake.md": {
           "hash": "sha256-d5cfc798d381f80e8075bce8b952de22c86c0aab590e6015cdda8731eba12ced"
@@ -316,16 +316,19 @@
           "hash": "sha256-03eb8da2bb04f49c2f5839c30a12528da397b6812c7838938863ca1847e54b90"
         },
         "docs/development/testing.md": {
-          "hash": "sha256-7fcd0f7088127dc76416bbfd9a2778f1ded89d56e19f0a3073153ee687a38738"
+          "hash": "sha256-3b03ffd09ee0b625a5dc96365aa8f6f980c1fc34af527c7c2ec9260d4fe5de55"
         },
         "docs/glossary.md": {
           "hash": "sha256-4e5e08e2f0622958f1d8e67e692aa59e1e0648e6fd6f4a929b97968ac0a32372"
         },
         "docs/README.md": {
-          "hash": "sha256-bb7886d3c62faafce3503e48e3bb660b666f099d112a1f392e2d7241cc687e43"
+          "hash": "sha256-9bf64517f260557d283bf3fc3947e505e1aeeec93e42b8849ea62fc775322fde"
         },
         "docs/development/model-to-script.md": {
           "hash": "sha256-a7f0c80e24d85f50b9ae8fbae293be44c7f8d3dba48f0fca5e0d7cb03e54dcb0"
+        },
+        "docs/development/modular-layouts.md": {
+          "hash": "sha256-6e0dc3c27550eafd3918e963d1b2bbc633a5d9b2cf67008fdcbd70175af73022"
         }
       }
     }
