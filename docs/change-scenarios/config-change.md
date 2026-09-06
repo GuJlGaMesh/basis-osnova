@@ -8,6 +8,8 @@
 
 [Паспорт](../development/intake.md), [конструирование](../development/modeling.md), [ограничения](../architecture/constraints.md).
 
+Выбрать [гейт текущего этапа](../development/quality-gates.md) и только затронутую [карточку мебели](../development/furniture/README.md).
+
 ## Шаги
 
 1. Зафиксировать, какие параметры и источники изменились; повысить ревизию паспорта.

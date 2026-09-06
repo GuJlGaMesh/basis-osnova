@@ -8,6 +8,8 @@
 
 [Архитектура](../architecture/overview.md), [quality gates](../development/quality-gates.md), [проверки](../development/testing.md).
 
+Выбрать [гейт текущего этапа](../development/quality-gates.md) и только затронутую [карточку мебели](../development/furniture/README.md).
+
 ## Шаги
 
 1. Зафиксировать исходный файл и ревизию, ID дефекта, ожидаемый и фактический результат.

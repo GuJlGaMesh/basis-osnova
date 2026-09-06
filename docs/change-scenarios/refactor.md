@@ -8,6 +8,8 @@
 
 [Слои](../architecture/layers.md), [работа в БАЗИС](../development/bazis.md), [проверки](../development/testing.md).
 
+Выбрать [гейт текущего этапа](../development/quality-gates.md) и только затронутую [карточку мебели](../development/furniture/README.md).
+
 ## Шаги
 
 1. Зафиксировать входные данные и измеряемый результат исходного генератора.

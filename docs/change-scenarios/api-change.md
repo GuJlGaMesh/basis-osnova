@@ -8,6 +8,8 @@
 
 [Источники](../architecture/dependencies.md), [ограничения](../architecture/constraints.md), [работа в БАЗИС](../development/bazis.md).
 
+Выбрать [гейт текущего этапа](../development/quality-gates.md) и только затронутую [карточку мебели](../development/furniture/README.md).
+
 ## Шаги
 
 1. Установить исходную и целевую версии приложения и API, сохранить рабочий вариант.
